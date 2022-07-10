@@ -1,0 +1,54 @@
+marquee{
+    padding: 10px;
+    color: linear-gradient(to right, #f32170,
+                    #ff6b08, #cf23cf, #eedd44);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+.notification {
+  background-color: antiquewhite;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+}
+
+.notification {
+  background-color: antiquewhite;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.notification_title {
+  background-color: #fff;
+  font-size: 15px;
+
+  border-radius: 17px;
+  text-align: center;
+  padding: 5px;
+  width: 260px;
+  box-shadow: 1px 1px 5px 2px gainsboro;
+}
+.notification_button {
+  background-color: aquamarine;
+  border: none;
+  border-radius: 17px;
+  padding: 5px 15px 5px 15px;
+  font-size: 15px;
+  box-shadow: 3px 3px 5px 2px rgba(115, 143, 133, 0.719);
+  margin-left: 10px;
+} */
